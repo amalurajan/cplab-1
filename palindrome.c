@@ -5,7 +5,7 @@ DATE:13/02/19*/
 void main()
 {
 int reverse=0,number,counter,rem,copy;
-printf("enter the number to find the palindrome");
+printf("enter  number to find  palindrome");
 scanf("%d",&number);
 copy=number;
 while(number>0)
